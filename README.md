@@ -22,7 +22,7 @@ This application requires
 Install the dependencies and devDependencies using:
 
 ```sh
-$ cd ReactRedux_BlogPost_Application
+$ cd React_Redux-BookCollection-Applicationn
 $ npm install
 ```
 
